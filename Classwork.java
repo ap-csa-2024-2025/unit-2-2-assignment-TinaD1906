@@ -27,5 +27,9 @@ public class Classwork
 
     System.out.println( amount + " " + item + " at " + weight + " pounds each with weigh " + (weight*amount) + " each");
 
+    System.out.println("\"That Brain of mine is something more than merely mortal; as time will show.\"\nAda Lovelace\nThe first computer programmer");
+
+    System.out.print("\( \\ \( \\ \n \(  \- \-\)\n \(\(\'\) \(\'\)")
+
   }
 }
