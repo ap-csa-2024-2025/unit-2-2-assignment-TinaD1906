@@ -5,10 +5,11 @@ public class Classwork
   public static void main(String[] args)
   {
     Scanner sc = new Scanner(System.in);  // a brand new scanner reading the keyboard
-    System.out.println("Hello, little child, what is your name?");
-    String name;
-    name = sc.nextLine();
-    System.out.println("Hello, " + name + ", how are you");
+    
+    //System.out.println("Hello, little child, what is your name?");
+    //String name;
+    //name = sc.nextLine();
+    //System.out.println("Hello, " + name + ", how are you");
 
     //if you nextInt() or nextDouble before a nextLine(), you will need an extra NextLine(); 
   
@@ -29,7 +30,7 @@ public class Classwork
 
     System.out.println("\"That Brain of mine is something more than merely mortal; as time will show.\"\nAda Lovelace\nThe first computer programmer");
 
-    System.out.print("\( \\ \( \\ \n \(  \- \-\)\n \(\(\'\) \(\'\)")
+    System.out.print("(\\(\\\n( - -) \n(') (')");
 
   }
 }
